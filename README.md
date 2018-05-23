@@ -1,1 +1,2 @@
 # mon
+var hind :(hello);
