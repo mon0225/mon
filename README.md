@@ -1,2 +1,2 @@
 # mon
-var hind :(hello);
+# hello
